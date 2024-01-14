@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Gabriel9Stresser.github/static/css/main.6fc4ef36.css",
-    "main.js": "/Gabriel9Stresser.github/static/js/main.92e26b9e.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Gabriel9Stresser.github/static/js/787.1ed0c42c.chunk.js",
-    "static/media/cromai.jpeg": "/Gabriel9Stresser.github/static/media/cromai.80462c10c08f3b649eff.jpeg",
-    "static/media/cpm.jpeg": "/Gabriel9Stresser.github/static/media/cpm.a635d6b626e7a0a9b1e8.jpeg",
-    "static/media/fiotec.jpeg": "/Gabriel9Stresser.github/static/media/fiotec.ab64ee289fdedc580a46.jpeg",
-    "static/media/phast.jpeg": "/Gabriel9Stresser.github/static/media/phast.994bed9f148a2a83f128.jpeg",
-    "static/media/virtus.jpeg": "/Gabriel9Stresser.github/static/media/virtus.b51e7a126735468f45a9.jpeg",
-    "static/media/art.jpeg": "/Gabriel9Stresser.github/static/media/art.c417f15abadaafde83c5.jpeg",
-    "static/media/ds.jpeg": "/Gabriel9Stresser.github/static/media/ds.032893cb9070e1a362e4.jpeg",
-    "static/media/home-main.svg": "/Gabriel9Stresser.github/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Gabriel9Stresser.github/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/Gabriel9Stresser.github/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Gabriel-CV.pdf": "/Gabriel9Stresser.github/static/media/Gabriel-CV.b65f9ddb1ec22e15e8b6.pdf",
-    "static/media/logo.png": "/Gabriel9Stresser.github/static/media/logo.e3f739590561def563b3.png",
-    "static/media/avatar.svg": "/Gabriel9Stresser.github/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "index.html": "/Gabriel9Stresser.github/index.html",
-    "static/media/pre.svg": "/Gabriel9Stresser.github/static/media/pre.d4812f51c8c80976eaab.svg",
-    "main.6fc4ef36.css.map": "/Gabriel9Stresser.github/static/css/main.6fc4ef36.css.map",
-    "main.92e26b9e.js.map": "/Gabriel9Stresser.github/static/js/main.92e26b9e.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Gabriel9Stresser.github/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/gabrielPort/static/css/main.73b10890.css",
+    "main.js": "/gabrielPort/static/js/main.bd3deb6a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/gabrielPort/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cromai.jpeg": "/gabrielPort/static/media/cromai.80462c10c08f3b649eff.jpeg",
+    "static/media/cpm.jpeg": "/gabrielPort/static/media/cpm.a635d6b626e7a0a9b1e8.jpeg",
+    "static/media/fiotec.jpeg": "/gabrielPort/static/media/fiotec.ab64ee289fdedc580a46.jpeg",
+    "static/media/phast.jpeg": "/gabrielPort/static/media/phast.994bed9f148a2a83f128.jpeg",
+    "static/media/virtus.jpeg": "/gabrielPort/static/media/virtus.b51e7a126735468f45a9.jpeg",
+    "static/media/art.jpeg": "/gabrielPort/static/media/art.c417f15abadaafde83c5.jpeg",
+    "static/media/ds.jpeg": "/gabrielPort/static/media/ds.032893cb9070e1a362e4.jpeg",
+    "static/media/home-main.svg": "/gabrielPort/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/gabrielPort/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/gabrielPort/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Gabriel-CV.pdf": "/gabrielPort/static/media/Gabriel-CV.b65f9ddb1ec22e15e8b6.pdf",
+    "static/media/logo.png": "/gabrielPort/static/media/logo.e3f739590561def563b3.png",
+    "static/media/avatar.svg": "/gabrielPort/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/gabrielPort/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/gabrielPort/index.html",
+    "main.73b10890.css.map": "/gabrielPort/static/css/main.73b10890.css.map",
+    "main.bd3deb6a.js.map": "/gabrielPort/static/js/main.bd3deb6a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/gabrielPort/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fc4ef36.css",
-    "static/js/main.92e26b9e.js"
+    "static/css/main.73b10890.css",
+    "static/js/main.bd3deb6a.js"
   ]
 }
